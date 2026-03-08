@@ -1,54 +1,33 @@
 # Меня зовут Алексей
 
-## О себе
+Привет! 🐍
+
 **Data Scientist** с глубокими знаниями Python и анализа данных.
 
 Активно ищу возможности для профессионального роста и применения своих навыков в динамичной команде.
 
 ---
 
-## Основные навыки
+## Основные навыки:
+- **Языки программирования:** Python, SQL
+- **Анализ данных:** Pandas, NumPy
+- **Визуализация данных:** Matplotlib, Seaborn
+- **Статистический анализ:** Регрессионный анализ, Проверка гипотез
+- **Машинное обучение:** scikit-learn, TensorFlow, PyTorch
 
-### Языки программирования
-**Python**, **SQL**
-
-### Анализ данных
-**Pandas**, **NumPy**
-
-### Визуализация данных
-**Matplotlib**, **Seaborn**
-
-### Статистический анализ
-**Регрессионный анализ**, **Проверка статистических гипотез**
-
-### Машинное обучение
-**scikit-learn**, **TensorFlow**, **PyTorch**
+## Дополнительные навыки:
+- **Глубокое обучение:** Keras
+- **Обработка естественного языка:** NLTK, BERT
+- **Базы данных:** MySQL, PostgreSQL
+- **Инструменты разработки:** Git, GitHub
 
 ---
 
-## Дополнительные навыки
-
-### Глубокое обучение
-**Keras**
-
-### Обработка естественного языка (NLP)
-**NLTK**, **BERT**
-
-### Базы данных
-**MySQL**, **PostgreSQL**
-
-### Инструменты разработки
-**Git**, **GitHub**
-
----
-
-## 📫 Контакты и ссылки
-
-**Email:** pimenovam66@yandex.ru  
-**Telegram:** @JavaAsska
-
-### 📂 Портфолио
-- **Data Science портфолио:** github.com/JavaAsska/YP_training_projects
-- **Fast_api example:** github.com/JavaAsska/HA_Api
+## 📫 Контакты и ссылки:
+- **Email:** pimenovam66@yandex.ru
+- **Telegram:** [@JavaAsska](https://t.me/JavaAsska)
+- **Портфолио:**
+  - [Data Science портфолио](https://github.com/JavaAsska/YP_training_projects)
+  - [Fast_api example](https://github.com/JavaAsska/HA_Api)
 
 ---
