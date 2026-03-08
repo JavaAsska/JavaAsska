@@ -1,7 +1,9 @@
 # Алексей 👨‍💻
 
-Data Scientist. Python. ML. Data Analysis.
+## Data Scientist. Python. ML. Data Analysis.
+
 Превращаю сырые данные в чистые решения.
+
 ---
 
 ## Основные навыки:
