@@ -1,4 +1,4 @@
-# Алексей 👨‍💻
+# Алексей 
 
 ## Data Scientist. Python. ML. Data Analysis.
 
